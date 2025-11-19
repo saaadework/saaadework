@@ -48,11 +48,3 @@ Focus on: preprocessing, feature engineering, multi-model comparison, and uncert
 - Energy system prediction & performance analytics  
 
 ---
-
-## 📬 **Connect**
-📧 **saadjamshed.work@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/saadjamshed256  
-🌐 **Portfolio:** https://saadj.lovable.app/
-
----
-
