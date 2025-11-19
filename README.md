@@ -8,28 +8,26 @@ I combine **computational physics**, **reactor simulation**, and **AI/ML-assiste
 
 ---
 
-## 🔬 **Featured Research**
-
-### **1. Genetic Algorithm Modeling of Catalytic Systems (Published Work)**  
-Applied Genetic Algorithms to solve **higher-order nonlinear catalytic reaction equations**, analyzing catalyst behavior across multiple geometries.  
+## **1. Genetic Algorithm**  
+Enhanced and pplied GA based technique to solve **higher-order nonlinear equations**, analyzing catalyst behavior across multiple geometries.  
 This work demonstrated the use of **optimization and intelligent search algorithms** to solve complex physical models.  
-🔗 *[Add paper link here]*
+🔗 *https://www.nature.com/articles/s41598-025-21585-3*
 
 ---
 
 ## ⚛️ **Reactor Neutronics & Nuclear Simulations**  
 **In Progress – OpenMC Research**  
-- 2×2 fuel assembly modeling  
-- 3-ring and hexagonal lattice configurations  
+- MNR core modeling and enhancement  
+- Hexlattice configurations  
 - Control drum geometry & reflector interactions  
 - Flux mapping, material homogenization, and energy-group studies  
 
-This work supports my graduate research into **microreactor core design and neutronics-thermal coupling**.
+This work supports my graduate research at USPCASE, NUST.
 
 ---
 
 ## 🧪 **ML-Assisted PCM Dataset Validation**  
-Developing workflows for validating **synthetic vs. real PCM datasets** using ML classifiers.  
+Developing a workflow for validating synthetic dataset in the field of PCMs for ML applications.  
 Focus on: preprocessing, feature engineering, multi-model comparison, and uncertainty evaluation.
 
 ---
@@ -46,9 +44,7 @@ Focus on: preprocessing, feature engineering, multi-model comparison, and uncert
 
 ## 📚 **Current Interests**
 - Multiphysics reactor simulation  
-- Optimization-driven reactor core design  
 - AI/ML integration in scientific modeling  
-- Computational thermal-fluid analysis  
 - Energy system prediction & performance analytics  
 
 ---
