@@ -9,7 +9,7 @@ I combine **computational physics**, **reactor simulation**, and **AI/ML-assiste
 ---
 
 ## **1. Genetic Algorithm**  
-Enhanced and pplied GA based technique to solve **higher-order nonlinear equations**, analyzing catalyst behavior across multiple geometries.  
+Enhanced and applied GA based technique to solve **higher-order nonlinear equations**, analyzing catalyst behavior across multiple geometries.  
 This work demonstrated the use of **optimization and intelligent search algorithms** to solve complex physical models.  
 🔗 *https://www.nature.com/articles/s41598-025-21585-3*
 
