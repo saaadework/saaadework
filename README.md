@@ -1,50 +1,58 @@
-# 👋 Hi, I'm Saad Jamshed  
-### **Energy Scientist | Reactor Neutronics • CFD • Optimization | AI/ML-Assisted Energy Modeling**
+<h1 align="center">Saad Jamshed</h1>
+<p align="center">
+  <b>Computational Physicist · Nuclear Simulation · AI/ML-Assisted Modeling</b><br>
+  MS Thermal Energy Engineering @ NUST · Published in Scientific Reports (Nature Portfolio)
+</p>
 
-I am an **Energy Scientist** transitioning from Physics → Thermal Energy Engineering → **computational modeling of advanced energy and nuclear systems**.  
-My current focus is on **reactor neutronics simulations**, thermal-hydraulic modeling, and data-driven optimization for energy system analysis.
-
-I combine **computational physics**, **reactor simulation**, and **AI/ML-assisted techniques** to enhance modeling accuracy, system performance, and design workflows.
-
----
-
-## **1. Genetic Algorithm**  
-Enhanced and applied GA based technique to solve **higher-order nonlinear equations**, analyzing catalyst behavior across multiple geometries.  
-This work demonstrated the use of **optimization and intelligent search algorithms** to solve complex physical models.  
-🔗 *https://www.nature.com/articles/s41598-025-21585-3*
+<p align="center">
+  <a href="https://www.linkedin.com/in/saadjamshed256"><img src="https://img.shields.io/badge/LinkedIn-saadjamshed256-0A66C2?style=flat&logo=linkedin"/></a>
+  <a href="mailto:saadjamshed.work@gmail.com"><img src="https://img.shields.io/badge/Email-saadjamshed.work%40gmail.com-EA4335?style=flat&logo=gmail"/></a>
+  <img src="https://img.shields.io/badge/Location-Pakistan-01579B?style=flat"/>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Worldwide-2E7D32?style=flat"/>
+</p>
 
 ---
 
-## ⚛️ **Reactor Neutronics & Nuclear Simulations**  
-**In Progress – OpenMC Research**  
-- MNR core modeling and enhancement  
-- Hexlattice configurations  
-- Control drum geometry & reflector interactions  
-- Flux mapping, material homogenization, and energy-group studies  
+## About Me
 
-This work supports my graduate research at USPCASE, NUST.
+I'm a research engineer combining **computational physics**, **reactor neutronics**, and **machine learning** to model complex energy systems. Currently pursuing my MS in Thermal Energy Engineering at NUST, with graduate research focused on Monte Carlo simulation workflows and AI-assisted dataset validation for phase-change materials.
 
----
-
-## 🧪 **ML-Assisted PCM Dataset Validation**  
-Developing a workflow for validating synthetic dataset in the field of PCMs for ML applications.  
-Focus on: preprocessing, feature engineering, multi-model comparison, and uncertainty evaluation.
+- **Peer-reviewed publication:** [Scientific Reports, 2023](https://www.nature.com/articles/s41598-025-21585-3) — heuristic computational methods for nonlinear reaction–diffusion systems
+- **Nuclear simulation:** OpenMC reactor geometry, hexagonal lattice modeling, neutron flux analysis
+- **ML/Data science:** Feature engineering, model benchmarking, cross-validation, uncertainty analysis
+- **Available for:** Remote roles in AI training, scientific writing, simulation engineering, or ML research
 
 ---
 
-## 🧰 **Tools & Technologies**
-**Reactor Physics:** OpenMC  
-**CFD / Thermal:** ANSYS Fluent, OpenFOAM  
-**Programming:** Python, MATLAB  
-**Optimization:** Genetic Algorithms, PSO  
-**Energy Economics:** RETScreen  
-**Writing:** Technical documentation, proofreading, research editing  
+## Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Languages** | Python, MATLAB |
+| **Scientific Python** | NumPy, SciPy, pandas, scikit-learn, Matplotlib |
+| **Simulation** | OpenMC (Monte Carlo / neutron transport), ANSYS Fluent (CFD) |
+| **ML / AI** | scikit-learn, feature engineering, RLHF evaluation, prompt engineering |
+| **Dev Tools** | Git, GitHub, Jupyter Notebook, LaTeX, VS Code |
+| **Domain** | Nuclear reactor physics, thermal energy systems, numerical methods, optimization |
 
 ---
 
-## 📚 **Current Interests**
-- Multiphysics reactor simulation  
-- AI/ML integration in scientific modeling  
-- Energy system prediction & performance analytics  
+## Featured Projects
+
+### [openmc-hex-assembly](https://github.com/saadjamshed256/openmc-hex-assembly)
+Monte Carlo nuclear reactor simulation — hexagonal fuel assembly model with full geometry, materials, and neutron transport configuration using OpenMC and Python.
+
+### [genetic-algorithm](https://github.com/saadjamshed256/genetic-algorithm)
+GA-based heuristic solver for higher-order nonlinear ODEs applied to catalytic reaction–diffusion systems. Published results in *Scientific Reports* (Nature Portfolio).
 
 ---
+
+## Publication
+
+> **Heuristic computational approach for nonlinear reaction–diffusion kinetics in catalytic systems**
+> *Scientific Reports, Nature Portfolio — 2023*
+> [Read on nature.com →](https://www.nature.com/articles/s41598-025-21585-3)
+
+---
+
+<p align="center"><i>Open to fully remote opportunities worldwide · Available for contract, part-time, or full-time</i></p>
